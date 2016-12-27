@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.kharidz.me	TRUE	/	FALSE	1999999999	__cfduid	df8130eea365ea03bdb184922d17d83ec1482767563
+.kharidz.systems	TRUE	/	FALSE	1999999999	__cfduid	dd0591e22e98b7785e4ec80bba0fd3b9c1482767570
+
