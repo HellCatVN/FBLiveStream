@@ -1,4 +1,4 @@
-$( document ).ready(function() {
+jQuery(document).ready(function($) {
     
     // CounterUp Plugin
     $('.counter').counterUp({
